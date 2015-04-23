@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Vtiger CRM" duration-ms="160" started-at="2015-04-17T12:28:24Z" finished-at="2015-04-17T12:28:25Z">
+    <groups>
+    </groups>
+    <test name="Login test" duration-ms="20" started-at="2015-04-17T12:28:24Z" finished-at="2015-04-17T12:28:24Z">
+      <class name="Pkg.NewTest">
+        <test-method status="PASS" signature="beforetest()" name="beforetest" is-config="true" duration-ms="0" started-at="2015-04-17T12:28:24Z" finished-at="2015-04-17T12:28:24Z">
+        </test-method>
+        <test-method status="PASS" signature="beforeclass()" name="beforeclass" is-config="true" duration-ms="0" started-at="2015-04-17T12:28:24Z" finished-at="2015-04-17T12:28:24Z">
+        </test-method>
+        <test-method status="PASS" signature="afterclass()" name="afterclass" is-config="true" duration-ms="0" started-at="2015-04-17T12:28:24Z" finished-at="2015-04-17T12:28:24Z">
+        </test-method>
+        <test-method status="PASS" signature="Login()" name="Login" duration-ms="0" started-at="2015-04-17T12:28:24Z" finished-at="2015-04-17T12:28:24Z">
+        </test-method>
+        <test-method status="PASS" signature="AfterMethod()" name="AfterMethod" is-config="true" duration-ms="0" started-at="2015-04-17T12:28:24Z" finished-at="2015-04-17T12:28:24Z">
+        </test-method>
+        <test-method status="PASS" signature="Beforemethod()" name="Beforemethod" is-config="true" duration-ms="0" started-at="2015-04-17T12:28:24Z" finished-at="2015-04-17T12:28:24Z">
+        </test-method>
+        <test-method status="PASS" signature="aftertest()" name="aftertest" is-config="true" duration-ms="0" started-at="2015-04-17T12:28:24Z" finished-at="2015-04-17T12:28:24Z">
+        </test-method>
+        <test-method status="PASS" signature="AfterMethod()" name="AfterMethod" is-config="true" duration-ms="0" started-at="2015-04-17T12:28:24Z" finished-at="2015-04-17T12:28:24Z">
+        </test-method>
+        <test-method status="PASS" signature="Beforemethod()" name="Beforemethod" is-config="true" duration-ms="0" started-at="2015-04-17T12:28:24Z" finished-at="2015-04-17T12:28:24Z">
+        </test-method>
+        <test-method status="PASS" signature="CreateLead()" name="CreateLead" duration-ms="0" started-at="2015-04-17T12:28:24Z" finished-at="2015-04-17T12:28:24Z">
+        </test-method>
+      </class>
+    </test>
+    <test name="test3 test" duration-ms="0" started-at="2015-04-17T12:28:25Z" finished-at="2015-04-17T12:28:25Z">
+      <class name="Pkg.class2">
+        <test-method status="PASS" signature="test3()" name="test3" duration-ms="0" started-at="2015-04-17T12:28:25Z" finished-at="2015-04-17T12:28:25Z">
+        </test-method>
+      </class>
+      <class name="Pkg.NewTest">
+        <test-method status="PASS" signature="beforesuite()" name="beforesuite" is-config="true" duration-ms="30" started-at="2015-04-17T12:28:24Z" finished-at="2015-04-17T12:28:24Z">
+        </test-method>
+        <test-method status="PASS" signature="aftersuite()" name="aftersuite" is-config="true" duration-ms="0" started-at="2015-04-17T12:28:25Z" finished-at="2015-04-17T12:28:25Z">
+        </test-method>
+      </class>
+    </test>
+  </suite>
+</testng-results>

@@ -1,0 +1,16 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Vtiger CRM">
+
+<test name="Login test">
+    <classes>
+        <class name="Pkg.NewTest" ></class>  
+    </classes>
+</test>
+
+
+<test name="test3 test">
+    <classes>
+        <class name="Pkg.class2" ></class>  
+    </classes>
+</test>
+</suite>
